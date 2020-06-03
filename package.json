@@ -1,5 +1,5 @@
 {
-  "name": "first-graphql",
+  "name": "ts-node-setup",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
