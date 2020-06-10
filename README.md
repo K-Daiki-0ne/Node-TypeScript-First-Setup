@@ -2,14 +2,22 @@
 
 ## This repository completed node(TypeScript) first setup 
 
+## Enviroment
+- Node - 12.18.0
+- yarn - 1.22.4
+
+
 ### Require
-
 - git 
-
-### Install
+- Node
+### Command
 
 ```git:command
 git clone https://github.com/K-Daiki-0ne/Node-TypeScript--First-Setup.git 
+```
+
+```remove:git
+rm -rf .git/
 ```
 
 ```yarn:command
