@@ -1,7 +1,7 @@
 # First Setup Node(TypeScript)
 
 ## This repository completed node(TypeScript) first setup 
-
+You don't have to setup ts-node and tsconfig.json.</br>
 ## Enviroment
 - Node - 12.18.0
 - yarn - 1.22.4
